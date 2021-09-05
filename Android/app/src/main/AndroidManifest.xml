@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.samplestickerapp">
+    package="com.ap.stickers">
 
     <application
         android:name=".StickerApplication"
@@ -46,7 +46,7 @@
             android:readPermission="com.whatsapp.sticker.READ" />
     </application>
 
-    <!-- to be able to query the whitelist status in WhatsApp 
+    <!-- to be able to query the whitelist status in WhatsApp
      https://developer.android.com/training/basics/intents/package-visibility#package-name -->
     <queries>
         <package android:name="com.whatsapp" />
