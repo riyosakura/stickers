@@ -4,18 +4,18 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Cuppy",
-      "publisher": "Jane Doe",
-      "tray_image_file": "tray_Cuppy.png",
+      "name": "Amanah Property",
+      "publisher": "Amanah Property",
+      "tray_image_file": "tray_Amanah.png",
       "image_data_version": "1",
       "avoid_cache": false,
-      "publisher_email": "",
-      "publisher_website": "",
+      "publisher_email": "info@amanahproperty.co.id",
+      "publisher_website": "amanahproperty.co.id",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01_Cuppy_smile.webp",
+          "image_file": "1. Hi.webp",
           "emojis": [
             "☕",
             "🙂"
